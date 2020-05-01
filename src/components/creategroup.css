@@ -1,0 +1,13 @@
+.Container {
+    margin-top: 100px;
+    padding: 2%;
+    background: rgb(234, 234, 234);
+    border-radius: 8px;
+}
+h1 {
+    color: rgb(44, 44, 44);
+}
+.Btn {
+    background: rgb(40, 136, 40);
+    color: white;
+}
